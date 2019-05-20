@@ -1,6 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.xfhl.wawa.model1" >
-    <application>
-        <activity android:name=".Model1Actvity"/>
-    </application>
-</manifest>
