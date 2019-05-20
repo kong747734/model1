@@ -9,6 +9,6 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:textSize="50dp"
-        android:text="Model1"/>
+        android:text="修改Model1"/>
 
 </android.support.design.widget.CoordinatorLayout>
